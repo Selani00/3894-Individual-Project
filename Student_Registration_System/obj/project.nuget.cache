@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pZq0FolhbEyVE/J2hhoCKGTQ/P4AXymylm4dHrThjI2naqHMKY6ALrhAmKNkvze1UtrsaO2o0+bw5bcxOpM8HQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\selani didulani\\OneDrive\\Desktop\\New folder\\Student_Registration_System\\Student_Registration_System\\Student_Registration_System.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\selani didulani\\.nuget\\packages\\communitytoolkit.mvvm\\8.1.0\\communitytoolkit.mvvm.8.1.0.nupkg.sha512",
+    "C:\\Users\\selani didulani\\.nuget\\packages\\mahapps.metro.iconpacks\\4.11.0\\mahapps.metro.iconpacks.4.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}
